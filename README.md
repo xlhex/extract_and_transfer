@@ -11,7 +11,7 @@ This repo contains source code and pre-processed corpora for "**Model Extraction
 * cuda 10.0
 
 ## Data
-Please download data from here
+Please download data from [here](https://drive.google.com/file/d/1WPg7ufEmZ-1zASsSa-2ctC2PiqIfXN0F/view?usp=sharing)
 
 ## Usage
 ```shell
