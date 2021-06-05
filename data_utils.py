@@ -1,6 +1,5 @@
 #!/usr/bin/python
 #-*-coding:utf-8 -*-
-#Author   : Zodiac
 #Version  : 1.0
 #Filename : data_utils.py
 from __future__ import print_function
